@@ -1,0 +1,6 @@
+earnings-manipulator-app/
+│
+├── app.py                     
+├── Copy_of_earning_solution.html
+├── requirements.txt
+├── README.md                  
